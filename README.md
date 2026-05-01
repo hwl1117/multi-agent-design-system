@@ -28,4 +28,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ## 📸 Demo Screenshot
 
-![demo](./demo.png)
+![demo](demo.png)
