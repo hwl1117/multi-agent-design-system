@@ -1,5 +1,8 @@
 # 🧠 AI Design Team Operating System
 
+<p align="center">
+  <img src="workflow.png" width="1000"/>
+</p>
 
 <p align="center">
   <b>Transform content production from human-driven workflows to system-driven pipelines</b>
