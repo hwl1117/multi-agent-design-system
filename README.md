@@ -1,23 +1,45 @@
 # 🧠 AI Design Team Operating System
 
-A multi-agent system that simulates a real design team for scalable content production.
+<p align="center">
+  <img src="demo.png" width="900"/>
+</p>
+
+<p align="center">
+  <b>Transform content production from human-driven workflows to system-driven pipelines</b>
+</p>
+
+---
 
 ## 🚀 Overview
-This project demonstrates how AI can move beyond single-task tools into a collaborative system.
 
-It includes:
-- Creative Agent (idea generation)
-- Design Agent (visual execution)
-- Strategy Agent (optimization)
-- Data Agent (performance evaluation)
+AI Design Team Operating System is a **multi-agent collaboration system** that simulates a real design team workflow.
 
-## ⚙️ How it works
+Instead of using AI as a single tool, this system orchestrates multiple agents to complete the full content production lifecycle — from idea generation to performance evaluation.
+
+---
+
+## 🧩 System Architecture
+
+The system is composed of four core agents:
+
+| Agent | Responsibility |
+|------|----------------|
+| 🎯 Creative Agent | Generate multiple creative directions |
+| 🎨 Design Agent | Execute visual generation |
+| 📊 Strategy Agent | Optimize for platform & audience |
+| 📈 Data Agent | Evaluate performance and select best result |
+
+---
+
+## ⚙️ How It Works
 
 1. Generate multiple creative directions  
 2. Execute design variations  
 3. Optimize for platform & audience  
 4. Evaluate using simulated performance metrics  
-5. Select the best-performing result  
+5. Automatically select the best-performing result  
+
+---
 
 ## 🖥️ Demo
 
@@ -26,6 +48,3 @@ Run locally:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-## 📸 Demo Screenshot
-
-![demo](demo.png)
